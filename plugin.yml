@@ -1,0 +1,11 @@
+name: mickplug
+main: com.github.ichingxs4all.mickplug
+version: 0.1
+
+commands:
+   ignite:
+      description: Burn the player
+      usage: /ignite
+      permission: mickplug.ignite
+      permission-message: You don't have <permission>
+      
